@@ -1,0 +1,27 @@
+Enter student #1 information (stu_id Name Age Contact_Number E-mail_ID):12 fgf 55 56965947 ghkl
+
+ The entered information is -
+stu_id: 12 
+Name:fgf
+Age: 55 
+Contact_number: 56965947
+E-mail_id: ghkl
+The ABOVE Entered Information is correct  ?(yes/no):no
+
+Please re-enter the values!
+Enter student #1 information (stu_id Name Age Contact_Number E-mail_ID):2356 santhosh 19 36569645 Sk@gmail.com
+
+ The entered information is -
+stu_id: 2356 
+Name:santhosh
+Age: 19 
+Contact_number: 36569645
+E-mail_id: Sk@gmail.com
+The ABOVE Entered Information is correct  ?(yes/no):yes
+Enter another student info (yes/no) :=no
+Do you want to  Read student info (yes/no) :=yes
+['stu_id', 'Name', 'Age', 'Contact_Number', 'E-mail_ID']
+['1256', 'dfg', '56', '569856743', 'gh']
+['1252', 'sjk', '19', '6365487989', 'gh']
+['1245', 'hjk', '56', '5696', 'k']
+['2356', 'santhosh', '19', '36569645', 'Sk@gmail.com']
